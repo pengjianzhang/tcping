@@ -8,6 +8,9 @@ make
 ## Usage
 
 iptables -t filter -I OUTPUT -p tcp  --tcp-flags RST RST -j DROP
-tcping dev sip dip dport [num]
-iptables -F
 
+tcping dev sip dip dport [num]
+
+## License
+
+dperf is distributed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
