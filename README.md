@@ -13,4 +13,4 @@ tcping dev sip dip dport [num]
 
 ## License
 
-dperf is distributed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+tcping is distributed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
